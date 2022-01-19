@@ -1,0 +1,2 @@
+C:\Users\ju-ju\RiderProjects\Julien_chedid_tp3s\Julien_chedid_tp3s\obj\Debug\Julien_chedid_tp3s.csprojAssemblyReference.cache
+C:\Users\ju-ju\RiderProjects\Julien_chedid_tp3s\Julien_chedid_tp3s\obj\Debug\Julien_chedid_tp3s.csproj.CoreCompileInputs.cache
